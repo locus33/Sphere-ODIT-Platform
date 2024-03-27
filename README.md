@@ -8,10 +8,10 @@ SPHERE © is a registered trademark of SPIRAL SYSTEMS INC.
 </center>
 
 <p></p>
-***************************************************************************************************************************************************************
+************************************************************************************************************************************
 This product is not for sale to the public. If you or your agency would like to enquire about the product or other products or custom products ideas please 
 contact us and we will work with you through the vetting process before we can start to descuss your product or future products ideas.
-***************************************************************************************************************************************************************
+************************************************************************************************************************************
 <p></p>
 Currently this product has been under development for over 3 months now (stated @ march 27 2024), and our goal is to bring a slightly different approach to this new evolving market, 
 with "the idea or concept" of making a tool that is constantly expandable, with plugins/upgrades so that as this product/products/project expands any one 
@@ -25,10 +25,10 @@ Please contact through github comment section or telegram listed below for more 
 If you are interested in Investing / are interested in this product/project or other custom product/product ideas in this catigory (investigative/intelligence tools) 
 We would be happy to colaberate and help with any ideas from concept to final product from software to hardeware solutions, we got you covered.
 
-****************************************************************************************************************************************************************
+************************************************************************************************************************************
 Again this product is not for sale to the public. If you or your agency would like to enquire about the product or other products or custom products ideas please 
 contact us and we will work with you through the vetting process before we can start to descuss your product or future products ideas.
-****************************************************************************************************************************************************************
+***********************************************************************************************************************************
 Sincearly
 Mr "SPHERE", Quote "It is not no damb circle". (The Origional "OG"/programmer/pentester/CEO/CSO of SPIRAL SYSTEMS INC.).
 <p></p>
