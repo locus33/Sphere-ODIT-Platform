@@ -1,3 +1,14 @@
+<center>
+<video width="640" height="480" controls>
+  <source src="sphere33.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<img src = sphere_logo.ico>
+SPHERE © is a registered trademark of SPIRAL SYSTEMS INC.
+</center>
+
+<p></p>
+<p></p>
 Currently this product has been under development for over 3 months now (stated @ march 27 2024), and our goal is to bring a slightly different approach to this new evolving market, 
 with "the idea or concept" of making a tool that is constantly expandable with plugins/upgrades so that as this product/products/project expands any one 
 who invests in SPHERE or allied projects/products should get more than just a piece of software or tool but also the ability to also get custom 
