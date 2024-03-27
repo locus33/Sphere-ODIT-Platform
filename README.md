@@ -22,7 +22,7 @@ If you are interested in Investing / are interested in this product/project or o
 We would be happy to colaberate and help with any ideas from concept to final product from software to hardeware solutions, we got you covered.
 
 Again this product is not for sale to the public. If you or your agency would like to enquire about the product or other products or custom products ideas please 
-contact information and we will work with you through the vetting process before we can start to descuss your product or future products ideas.
+contact us and we will work with you through the vetting process before we can start to descuss your product or future products ideas.
 
 Sincearly
 Mr "SPHERE", Quote "It is not no damb circle". (The Origional "OG"/product_designer/programmer/pentester/CEO/CSO of SPIRAL SYSTEMS INC.).
