@@ -16,14 +16,19 @@ contact information and we will work with you through the vetting process before
 Sincearly
 Mr "SPHERE", Quote "It is not no damb circle". (The Origional "OG"/product_designer/programmer/pentester/CEO/CSO of SPIRAL SYSTEMS INC.).
 
-<img src = Screenshot1.jpg>
 
-<img src = Screenshot2.jpg>
-
-<img src = Screenshot3.jpg>
+<img src = sphere1.jpg>
+<img src = sphere2.jpg>
+<img src = sphere3.jpg>
+<img src = sphere4.jpg>
+<img src = sphere5.jpg>
+<img src = sphere6.jpg>
+<img src = sphere7.jpg>
+<img src = sphere8.jpg>
+<img src = sphere9.jpg>
 
 Please contact our team via github untill the website is launched.
 
 
-<img src = Logo.png>
+<img src = sphere_logo.ico>
 SPHERE © is a registered trademark of SPIRAL SYSTEMS INC.
