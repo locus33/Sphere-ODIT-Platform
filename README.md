@@ -13,6 +13,8 @@ We would be happy to colaberate and help with any ideas from concept to final pr
 Again this product is not for sale to the public. If you or your agency would like to enquire about the product or other products or custom products ideas please 
 contact information and we will work with you through the vetting process before we can start to descuss your product or future products ideas.
 
+<img src = sphere33.mp4>
+
 Sincearly
 Mr "SPHERE", Quote "It is not no damb circle". (The Origional "OG"/product_designer/programmer/pentester/CEO/CSO of SPIRAL SYSTEMS INC.).
 
