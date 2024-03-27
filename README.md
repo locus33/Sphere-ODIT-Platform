@@ -1,5 +1,5 @@
 <center>
-<video width="640" height="480" controls>
+<video width="320" height="240" controls>
   <source src="sphere33.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -40,7 +40,7 @@ Mr "SPHERE", Quote "It is not no damb circle". (The Origional "OG"/product_desig
 
 Please contact our team via github untill the website is launched.
 <center>
-<video width="640" height="480" controls>
+<video width="320" height="240" controls>
   <source src="sphere33.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
