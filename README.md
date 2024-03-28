@@ -14,7 +14,7 @@ SPHERE © is a registered trademark of SPIRAL SYSTEMS INC.
 This product is not for sale to the public. If you or your agency would like to enquire about the product or other products or custom products ideas please 
 contact us and we will work with you through the vetting process before we can start to descuss your product or future products ideas.
 <p></p>
-*************************************************************************************************************************
+************************************************************************************************************************
 <p></p>
 Currently this product has been under development for over 3 months now (stated @ march 27 2024), and our goal is to bring a slightly different approach to this new evolving market, 
 with "the idea or concept" of making a tool that is constantly expandable, with plugins/upgrades so that as this product/products/project expands any one 
