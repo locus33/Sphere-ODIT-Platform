@@ -59,7 +59,13 @@ Please contact our team via github untill the website is launched.
 <img src = sphere_logo.ico>
 SPHERE © is a registered trademark of SPIRAL SYSTEMS INC.
 </center>
+<p></p>
+<p></p>
+<p></p>
 Telegram invite...
+<p></p>
+<p></p>
+<p></p>
 https://t.me/+3n6LHzSlX_Y1ZDZh
 
 
